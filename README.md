@@ -12,6 +12,7 @@ A statistician in the Autolib company believes that the Bluecars picked on weekd
 **Null Hypothesis**; The number of Blue cars taken on weekdays are more than the number of Blue cars taken on weekends
 
 **Alternative Hypothesis**;The number of Blue cars taken on weekdays are not more than the number of Blue cars taken on weekends.
+
 The reason why this hypothesis is interesting is because we assume that weekdays are usually the busiest and thus we expect the blue cars taken on weekdays to be more than the cars taken on weekends.
 This Hypothesis is important because it will inform us on when the cars need to be made available to the public in plenty.This hypothesis test will be helpful to the company as it will help them make informed decisions based on facts.
 
@@ -54,4 +55,5 @@ For our case, we failed to reject the null hypothesis which means that we don't 
 **Summary and Conclusions**
 
 I performed data cleaning and exploratory data analysis on our dataset before choosing a sample using the simple random sampling technique which ensures there is no bias in our sample size.I then performed hypothesis testing as the implementation to our research question. 
+
 From the hypothesis testing, we can conclude that The autolib company should avail more cars during the week as we have a huge market base that needs to be tapped because We have enough evidence to say that more Blue cars are taken on weekdays than on weekends.
