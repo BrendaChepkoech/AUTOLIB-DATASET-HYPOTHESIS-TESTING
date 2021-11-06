@@ -32,6 +32,7 @@ Exploratory Data Analysis
 Hypothesis Testing
 
 **Hypothesis Testing Procedure**
+
 The dataset had a total of 16085 records consisting of the following fields ; postal code, number of blue cars taken and returned to the respective addresses, the dates that the electric cars were taken or returned as well as the days of the week that electric cars were taken and returned. All this information was useful in helping us understand the electric car usage in Paris.
 The first step was to define our hypothesis population by locating the Blue cars picked on weekends and weekdays.I went ahead and picked a random sample from the population I defined. I selected 100 samples from the Blue Cars picked on weekend and 100 samples from the Blue cars picked on weekdays which translated to 200 records. I used a simple random sampling method because each individual in the population has the same probability of being selected. It ensures that there is no bias and also  makes sure that the proportion of weekdays and weekends data picked is equal in our grouped sample.
 After getting my sample,I imported the from statsmodels.stats.weightstats import z test as ztest and performed two sample z test which helped in attaining the p_value. I used z test because my sample was large and was greater than 30.
