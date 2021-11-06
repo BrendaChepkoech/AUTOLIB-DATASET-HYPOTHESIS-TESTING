@@ -1,5 +1,6 @@
 
 **HYPOTHESIS TESTING REPORT**
+
  **Business Overview**
  
 The City of Paris was among the first major European city, which successfully deployed a public electric car-sharing program. The Autolib program had more than 3,000 cars operating on the streets of Paris and within the whole region. There were around 860 Autolib stations where users can subscribe, pick up or drop off the cars. As well, there were 4,400 parking spaces and charging points reserved exclusively for ”Bluecars”. Electric car-sharing services greatly contribute to the preservation of the environment and facilitate mobility in the bustling city of Paris.
